@@ -40,4 +40,4 @@ The execution can be started simply using the following command:
 $ roslaunch occupancy_grid_map grid_map.launch
 ```
 
-The file `grid_map.launch` is a launch file that contains the instruction to implement the nodes.
+The file `grid_map.launch` is a launch file that contains the instruction to implement the nodes. Unfortunately, the bag file used to run the program couldn't be uploaded (too large), so you can use your bag file, by slightly modifying the directory in the launch file.
