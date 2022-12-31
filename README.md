@@ -13,8 +13,10 @@ A ROS node that plays a rosbag file, subscribes to the `/base_scan` and `/base_o
 
 ### Prerequisites
 *Python 3.0
+
 *ROS
-*Turtlesim
+
+*Rviz
 
 
 #### Installation
