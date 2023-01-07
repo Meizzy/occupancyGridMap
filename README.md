@@ -12,11 +12,11 @@
 A ROS node that plays a rosbag file, subscribes to the `/base_scan` and `/base_odometry/odom` nodes, and in turn publishes the information into a `/map` node. the map also self-updates, and the visualization is made possible with the help of rviz.
 
 ### Prerequisites
-*Python 3.0
+* Python 3.0
 
-*ROS
+* ROS
 
-*Rviz
+* Rviz
 
 
 #### Installation
